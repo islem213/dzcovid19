@@ -1,0 +1,31 @@
+body {
+    font-family: 'Inria Sans' !important
+}
+
+.tabulator-row{
+    font-weight: bold !important;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px !important;
+    transition: all 1s ease-in-out;
+}
+
+a:hover{
+    color: #fff;
+    transform: scale(1.3);
+}
+canvas {
+    border: 1px solid #ffc107;
+-webkit-box-shadow: 0px 9px 15px -14px rgba(0, 0, 0, 0.61);
+-moz-box-shadow: 0px 9px 15px -14px rgba(0, 0, 0, 0.61);
+box-shadow: 0px 9px 15px -14px rgba(0, 0, 0, 0.61);
+}
+.row{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
