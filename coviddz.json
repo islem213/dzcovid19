@@ -1,0 +1,439 @@
+{
+    "Wilayas": [
+        {
+            "name": "Adrar",
+            "info": {
+                "id": "1",
+                "cases": "4",
+                "deaths": "1",
+                "recovered": "0"
+            }
+        },
+        {
+            "name": "Chlef",
+            "info": {
+                "id": "2",
+                "cases": "30",
+                "deaths": "1",
+                "recovered": "0"
+            }
+        },
+        {
+            "name": "Laghouat",
+            "info": {
+                "id": "3",
+                "cases": "3",
+                "deaths": "0",
+                "recovered": "0"
+            }
+        },
+        {
+            "name": "OumelBouaghi",
+            "info": {
+                "id": 4,
+                "cases": 17,
+                "deaths": 3,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Batna",
+            "info": {
+                "id": 5,
+                "cases": 18,
+                "deaths": 4,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Bejaia",
+            "info": {
+                "id": 6,
+                "cases": 77,
+                "deaths": 8,
+                "recovered": 1
+            }
+        },
+        {
+            "name": "Biskra",
+            "info": {
+                "id": 7,
+                "cases": 10,
+                "deaths": 3,
+                "recovered": 2
+            }
+        },
+        {
+            "name": "Bechar",
+            "info": {
+                "id": 8,
+                "cases": 10,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Blida",
+            "info": {
+                "id": 9,
+                "cases": 529,
+                "deaths": 69,
+                "recovered": 32
+            }
+        },
+        {
+            "name": "Bouira",
+            "info": {
+                "id": 10,
+                "cases": 13,
+                "deaths": 0,
+                "recovered": 1
+            }
+        },
+        {
+            "name": "Tamanghasset",
+            "info": {
+                "id": 11,
+                "cases": 0,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Tebessa",
+            "info": {
+                "id": 12,
+                "cases": 6,
+                "deaths": 2,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Tlemcen",
+            "info": {
+                "id": 13,
+                "cases": 38,
+                "deaths": 2,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Tiaret",
+            "info": {
+                "id": 14,
+                "cases": 3,
+                "deaths": 1,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "TiziOuzou",
+            "info": {
+                "id": 15,
+                "cases": 41,
+                "deaths": 7,
+                "recovered": 2
+            }
+        },
+        {
+            "name": "Algiers",
+            "info": {
+                "id": 16,
+                "cases": 310,
+                "deaths": 68,
+                "recovered": 11
+            }
+        },
+        {
+            "name": "Djelfa",
+            "info": {
+                "id": 17,
+                "cases": 14,
+                "deaths": 1,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Jijel",
+            "info": {
+                "id": 18,
+                "cases": 21,
+                "deaths": 3,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Setif",
+            "info": {
+                "id": 19,
+                "cases": 80,
+                "deaths": 8,
+                "recovered": 2
+            }
+        },
+        {
+            "name": "Saida",
+            "info": {
+                "id": 20,
+                "cases": 0,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Skikda",
+            "info": {
+                "id": 21,
+                "cases": 18,
+                "deaths": 0,
+                "recovered": 3
+            }
+        },
+        {
+            "name": "SidiBelAbbes",
+            "info": {
+                "id": 22,
+                "cases": 17,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Annaba",
+            "info": {
+                "id": 23,
+                "cases": 14,
+                "deaths": 2,
+                "recovered": 3
+            }
+        },
+        {
+            "name": "Guelma",
+            "info": {
+                "id": 24,
+                "cases": 5,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Constantine",
+            "info": {
+                "id": 25,
+                "cases": 33,
+                "deaths": 5,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Medea",
+            "info": {
+                "id": 26,
+                "cases": 26,
+                "deaths": 8,
+                "recovered": 1
+            }
+        },
+        {
+            "name": "Mostaganem",
+            "info": {
+                "id": 27,
+                "cases": 22,
+                "deaths": 2,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Msila",
+            "info": {
+                "id": 28,
+                "cases": 8,
+                "deaths": 4,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Mascara",
+            "info": {
+                "id": 29,
+                "cases": 20,
+                "deaths": 3,
+                "recovered": 2
+            }
+        },
+        {
+            "name": "Ouargla",
+            "info": {
+                "id": 30,
+                "cases": 4,
+                "deaths": 1,
+                "recovered": 1
+            }
+        },
+        {
+            "name": "Oran",
+            "info": {
+                "id": 31,
+                "cases": 104,
+                "deaths": 9,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "El_Bayadh",
+            "info": {
+                "id": 32,
+                "cases": 1,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Illizi",
+            "info": {
+                "id": 33,
+                "cases": 2,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "BordjBouArrerij",
+            "info": {
+                "id": 34,
+                "cases": 37,
+                "deaths": 8,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Boumerdes",
+            "info": {
+                "id": 35,
+                "cases": 19,
+                "deaths": 5,
+                "recovered": 1
+            }
+        },
+        {
+            "name": "El_Taref",
+            "info": {
+                "id": 36,
+                "cases": 4,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Tindouf",
+            "info": {
+                "id": 37,
+                "cases": 0,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Tissemsilt",
+            "info": {
+                "id": 38,
+                "cases": 15,
+                "deaths": 2,
+                "recovered": 1
+            }
+        },
+        {
+            "name": "El_Oued",
+            "info": {
+                "id": 39,
+                "cases": 16,
+                "deaths": 4,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Khenchela",
+            "info": {
+                "id": 40,
+                "cases": 6,
+                "deaths": 1,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Souk_Ahras",
+            "info": {
+                "id": 41,
+                "cases": 6,
+                "deaths": 1,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Tipaza",
+            "info": {
+                "id": 42,
+                "cases": 55,
+                "deaths": 7,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Mila",
+            "info": {
+                "id": 43,
+                "cases": 3,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Ain_Defla",
+            "info": {
+                "id": 44,
+                "cases": 40,
+                "deaths": 5,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Naama",
+            "info": {
+                "id": 45,
+                "cases": 1,
+                "deaths": 0,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Ain_Temouchent",
+            "info": {
+                "id": 46,
+                "cases": 13,
+                "deaths": 2,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Ghardaia",
+            "info": {
+                "id": 47,
+                "cases": 2,
+                "deaths": 1,
+                "recovered": 0
+            }
+        },
+        {
+            "name": "Relizane",
+            "info": {
+                "id": 48,
+                "cases": 9,
+                "deaths": 2,
+                "recovered": 0
+            }
+        }
+    ],
+    "Total_cases": "1761",
+    "Total_deaths": "256 ",
+    "Total_recoveries": "405 "
+}
