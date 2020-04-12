@@ -13,7 +13,7 @@
             "name": "Chlef",
             "info": {
                 "id": "2",
-                "cases": "30",
+                "cases": "31",
                 "deaths": "1",
                 "recovered": "0"
             }
@@ -22,7 +22,7 @@
             "name": "Laghouat",
             "info": {
                 "id": "3",
-                "cases": "3",
+                "cases": "8",
                 "deaths": "0",
                 "recovered": "0"
             }
@@ -31,7 +31,7 @@
             "name": "OumelBouaghi",
             "info": {
                 "id": 4,
-                "cases": 17,
+                "cases": 18,
                 "deaths": 3,
                 "recovered": 0
             }
@@ -40,7 +40,7 @@
             "name": "Batna",
             "info": {
                 "id": 5,
-                "cases": 18,
+                "cases": 21,
                 "deaths": 4,
                 "recovered": 0
             }
@@ -50,7 +50,7 @@
             "info": {
                 "id": 6,
                 "cases": 77,
-                "deaths": 8,
+                "deaths": 9,
                 "recovered": 1
             }
         },
